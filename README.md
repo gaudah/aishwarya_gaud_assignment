@@ -1,6 +1,7 @@
 # McKinleyrice Assignment
 Prerequisite:
-You must have npm and node installed on your machine to setup this assignment.
+
+You must have npm,node and mongoDB installed on your machine to setup this assignment.
 
 How to setup an assignment:
 
